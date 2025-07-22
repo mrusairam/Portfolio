@@ -4,7 +4,7 @@ import { AiOutlineDownload } from "react-icons/ai";
 import Particle from "@/Component/Particle";
 
 export default function Resume() {
-  const fileId = "1O22tWNVwfAd977hIKwznd42yGORcpWi_";
+  const fileId = "19dnqDD-MYvmNGBh1teRJy1Y2Hg14TtOa";
   const viewerURL = `https://drive.google.com/file/d/${fileId}/preview`;
   const directDownload = `https://drive.google.com/uc?export=download&id=${fileId}`;
 
